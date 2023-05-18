@@ -13,8 +13,11 @@ This is a simple Quiz App with a built-in timer, developed using HTML, CSS, and 
 
 
 2. Read each question carefully and select the appropriate answer(s).
-3. Observe the countdown timer and submit your answers before it reaches zero.
-4. Immediate feedback on correct and incorrect answers
+<p align="center">
+  <img src="Images/submit_answer.png" alt="Submit Answer" />
+</p>
+4. Observe the countdown timer and submit your answers before it reaches zero.
+5. Immediate feedback on correct and incorrect answers
 <p align="center">
   <img src="Images/question_example.png" alt="Submit Answer" />
 </p>
