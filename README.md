@@ -4,15 +4,19 @@
 This is a simple Quiz App with a built-in timer, developed using HTML, CSS, and JavaScript. It allows users to test their knowledge by answering multiple-choice questions within a specified time limit.
 
 ## Features
+1. Start the quiz by clicking the "Start Quiz" button.
 
-- Multiple-choice questions with single or multiple correct answers
-- Randomized question order to enhance variety
-- Countdown timer to create a sense of urgency
-- Automatic submission of answers when the timer reaches zero
-- Immediate feedback on correct and incorrect answers
-- Overall score calculation
-- Option to restart the quiz
+![Start Quiz](Images/start_quiz.png)
 
+2. Read each question carefully and select the appropriate answer(s).
+3. Observe the countdown timer and submit your answers before it reaches zero.
+4. Immediate feedback on correct and incorrect answers
+
+![Submit Answer](Images/question_example.png)
+5. Overall score calculation
+6. Option to restart the quiz
+
+![FeedBack](Images/feedback.png)
 ## How to Use
 
 1. Clone the repository or download the source code.
