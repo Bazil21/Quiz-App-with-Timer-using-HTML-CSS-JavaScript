@@ -6,17 +6,25 @@ This is a simple Quiz App with a built-in timer, developed using HTML, CSS, and 
 ## Features
 1. Start the quiz by clicking the "Start Quiz" button.
 
-![Start Quiz](Images/start_quiz.png)
+<p align="center">
+  <img src="Images/start_quiz.png" alt="Start Quiz" />
+</p>
+
+
 
 2. Read each question carefully and select the appropriate answer(s).
 3. Observe the countdown timer and submit your answers before it reaches zero.
 4. Immediate feedback on correct and incorrect answers
+<p align="center">
+  <img src="Images/question_example.png" alt="Submit Answer" />
+</p>
 
-![Submit Answer](Images/question_example.png)
 5. Overall score calculation
 6. Option to restart the quiz
+<p align="center">
+  <img src="Images/feedback.png" alt="FeedBack" />
+</p>
 
-![FeedBack](Images/feedback.png)
 ## How to Use
 
 1. Clone the repository or download the source code.
